@@ -1,4 +1,4 @@
-package com.example.csc47524wamodule1
+package com.example.myapplication
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge

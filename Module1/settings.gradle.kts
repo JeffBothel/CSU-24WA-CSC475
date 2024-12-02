@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "CSC475 24WA Module 1"
+rootProject.name = "My Application"
 include(":app")
